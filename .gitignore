@@ -172,3 +172,38 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Google Colab artifacts
+*.ipynb (Checkpoint).ipynb
+*.ipynb (Conflicted copy)*
+
+# Data files (raw or processed)
+data/*.csv
+data/*.tsv
+*.json
+*.xlsx
+
+# Experiment outputs and model files
+*.pt
+*.bin
+
+# Hugging Face and Transformers cache
+.cache/
+huggingface/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Colab config
+.config/
