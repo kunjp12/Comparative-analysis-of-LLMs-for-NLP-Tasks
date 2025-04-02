@@ -1,0 +1,24 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP and modeling
+transformers
+torch
+datasets
+
+# OpenAI (for GPT-3.5)
+openai
+
+# Jupyter Notebook (for local runs)
+notebook
+jupyterlab
+
+# For visualizations and word clouds
+wordcloud
+
+# Optional: tqdm for progress bars
+tqdm
